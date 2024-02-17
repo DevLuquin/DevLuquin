@@ -4,6 +4,8 @@
 
 ![Luquin GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuquin&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuquin&layout=compact)
+
 ## I am learning!!! ⭐️
 
 <div style="display: inline_block"><br>
